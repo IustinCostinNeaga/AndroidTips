@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalcolaTip</string>
+    <string name="hint">Inserisci il prezzo</string>
+    <string name="tipAmount">Come è stato il servizio?</string>
+    <string name="venti">Ottimo, 20%</string>
+    <string name="quindici">Buono, 15%</string>
+    <string name="dieci">Ok, 10%</string>
+    <string name="arrotondo">Arrotondare la mancia?</string>
+    <string name="bottone">Calcola</string>
+    <string name="mancia">La mancia è:
+    </string>
+</resources>
